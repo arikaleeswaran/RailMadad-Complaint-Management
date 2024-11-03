@@ -19,7 +19,7 @@ To set up and run the Rail Madad Complaint Management System locally, follow the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/agkavin/RailMadad-Complaint-Management.git
+   git clone https://github.com/arikaleeswaran/RailMadad-Complaint-Management.git
    ```
 
 2. Navigate to the project directory:
